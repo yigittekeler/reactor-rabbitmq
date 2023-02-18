@@ -1,0 +1,13 @@
+server:
+  port: 8084
+
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: root
+      password: root
+      host: localhost
+      port: 27019
+      database: reactor
+
